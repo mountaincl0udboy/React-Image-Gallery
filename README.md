@@ -1,8 +1,6 @@
 # React-Image-Gallery
 ### Welcome to React-Image-Gallery, a project aimed at providing an online marketplace for sneakers!
 
- This web application was built using Django, a powerful Python web framework. With Django Kicks Stop, users can browse sneakers, add them to their cart, and checkout securely.
-
 # Features
 ### React-Image-Gallery provides the following features:
 
